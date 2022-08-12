@@ -6,7 +6,7 @@ namespace ListExercises
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Lists!");
+            Console.WriteLine("Hello Chamane!");
         }
     }
 }
